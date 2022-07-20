@@ -9,6 +9,7 @@ public class test {
         System.out.println("master commit");
         System.out.println("hot-fix test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
 }
