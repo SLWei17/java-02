@@ -6,6 +6,7 @@ public class test {
         System.out.println("Git V2");
         System.out.println("Git V3");
         System.out.println("hot-fix");
+        System.out.println("master commit");
     }
 
 }
